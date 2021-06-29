@@ -13,3 +13,4 @@
   5. **Git Remote** allows you to view all the remote URLs next to their corresponding shot names.
 
   how to make changes in vs code.
+ still struggling with the weird page
