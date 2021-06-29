@@ -11,3 +11,5 @@
   3. **Track your changes**
   4. **Cloning**
   5. **Git Remote** allows you to view all the remote URLs next to their corresponding shot names.
+
+  how to make changes in vs code.
