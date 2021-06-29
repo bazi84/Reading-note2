@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Reading-note2
 
-You can use the [editor on GitHub](https://github.com/bazi84/Reading-note2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Reading Reflections on Git and Github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  *Git is DVCS (A Distributed Version Control Systems)that stores data in a file system made up of snapshots. It keeps track of all your files you changed each time you commit changes. Git creates an updated version of the file with the new changes while saving the previous version so that you can compare and track the changes made between the previous versions and the new version with the additional changes.*
 
-### Markdown
+  ### Some Benefits of Git
+  
+  1. **Loss of Data**
+  2. **Local Operations** (work on your project even when not online or on a vpn)
+  3. **Track your changes**
+  4. **Cloning**
+  5. **Git Remote** allows you to view all the remote URLs next to their corresponding shot names.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bazi84/Reading-note2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  how to make changes in vs code.
+ still struggling with the weird page
+ hopefully this time it will remove the weird page.
